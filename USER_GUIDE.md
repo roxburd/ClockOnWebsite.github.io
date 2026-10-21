@@ -17,8 +17,9 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 * [🔔 Persistent Status Bar Notification](#-persistent-status-bar-notification)
 * [📱 1-Tap Home Screen Widget](#-1-tap-home-screen-widget)
 * [📊 Reports & CSV Export](#-reports--csv-export)
+* [📈 Visual Charts & Data Analytics](#-visual-charts--data-analytics)
 * [✏️ Editing & Managing Records](#%EF%B8%8F-editing--managing-records)
-* [⚙️ Account Management & Max Hours](#%EF%B8%8F-account-management--max-hours)
+* [⚙️ Account Management & Custom Colours](#%EF%B8%8F-account-management--custom-colours)
 * [🚀 Power User Tips](#-power-user-tips)
 * [💬 Join Our Community & Support Us](#-join-our-community--support-us)
 
@@ -90,9 +91,27 @@ Need to send timesheets to your manager or export billable hours for invoices?
 
 * **Flexible Views**: Switch between **Weekly** or **Monthly** summaries.
 * **Totals vs. Sessions**: View total accumulated hours or inspect individual session entries down to the exact minute.
-* **CSV Export**: Tap the **Export** button to generate a clean CSV file and share it via Email, Slack, WhatsApp, Google Drive, Excel or other capable channel!
+* **CSV Export**: Select one or more periods, tap the **Action** (`☰`) menu button, and choose **Export** to generate a clean CSV file and share it via Email, Slack, WhatsApp, Google Drive, Excel or other capable channel!
 
 You remain in complete control of where the data goes.
+
+---
+
+## 📈 Visual Charts & Data Analytics
+
+Want to visualize your work hours at a glance? ClockOn features a comprehensive interactive charting engine:
+
+1. In **Reports**, select one or more periods using the checkboxes.
+2. Tap the **Action** (`☰`) menu button at the bottom right and select **Charts**.
+3. Choose from **4 distinct view modes**:
+   - **Stacked Column**: Displays cumulative booked hours per period (or daily breakdown when viewing a single week or month).
+   - **100% Stacked Column**: Normalizes columns to 100% for proportional analysis.
+   - **Pie Chart**: Visualizes total time distribution across accounts as percentage slices.
+   - **Horizontal Bar Chart**: Compares total booked time per account side-by-side.
+
+### Interactive Chart Features:
+* **Combined Key & Filter**: Tap the **Key** button in the top bar to open the legend pop-up. You can toggle accounts on and off to include or exclude them from the charts instantly.
+* **Segment Tap Callouts**: Tap any coloured segment on stacked column charts for a callout bubble showing the account name and exact hours/percentage.
 
 ---
 
@@ -115,14 +134,15 @@ Made a mistake or forgot to log yesterday's hours? ClockOn gives you full contro
 
 ---
 
-## ⚙️ Account Management & Max Hours
+## ⚙️ Account Management & Custom Colours
 
 Manage multiple jobs, clients, or projects effortlessly:
 
 1. Tap **ACCOUNTS** on the main screen.
 2. Rename accounts by tapping on their name and entering a new name.
 3. Add new accounts (e.g. *"Acme Corp"*, *"Design Contract"*, *"Overtime"*).
-3. **Max Hours Limit**: Optionally set an all-time maximum hour limit for any account.
+4. **Custom Account Colours**: Personalise each account's colour swatch by tapping the colour circle next to the account name in the Accounts list view, or via Account Details. Use the true colour picker (Hue, Saturation, and Brightness sliders) to choose any custom shade.
+5. **Max Hours Limit**: Optionally set an all-time maximum hour limit for any account.
 
 ---
 
