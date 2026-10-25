@@ -6,9 +6,7 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 
 ---
 
-## 🧭 Skim-Read Directory (Quick Nav)
-
-* [💡 Why ClockOn? (The Rationale)](#-why-clockon-the-rationale)
+* [💡 Why ClockOn?](#-why-clockon)
 * [⚡ Quick Start (3-Step Onboarding)](#-quick-start-3-step-onboarding)
 * [🎬 Daily Workflow](#-daily-workflow)
   * [1. Clocking On](#1-clocking-on)
@@ -25,7 +23,7 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 
 ---
 
-## 💡 Why ClockOn? (The Rationale)
+## 💡 Why ClockOn?
 
 Most time-tracking apps are bloated with complex forms, required tags, project hierarchies, and mandatory cloud logins. **ClockOn is different.**
 
@@ -51,7 +49,7 @@ Most time-tracking apps are bloated with complex forms, required tags, project h
 * Select the account or project you are working on/for.
 * **Real-time Live Counter**: A live duration counter appears showing elapsed time (`HH:MM`).
 
-### 2. Switching Accounts
+### 2. Switching Accounts (Optional)
 Working on Account A and suddenly need to jump to Account B? Don't clock off and clock on - switch!
 * Tap **SWITCH** on the main screen.
 * ClockOn automatically clocks you off Account A and clocks you on Account B in a single atomic step — no overlapping sessions or time gaps!
@@ -61,13 +59,13 @@ Working on Account A and suddenly need to jump to Account B? Don't clock off and
 * ClockOn closes your active session, records total hours, and updates your widget/notification bar instantly.
 
 > [!TIP]
-> **Forgot to clock on or off earlier?** When clocking on or off, you can adjust the timestamp to the required time!
+> **Forgot to clock on or off earlier?** When clocking on or off in-app, you can adjust the timestamp to the required time!
 
 ---
 
 ## 🔔 Persistent Status Bar Notification
 
-While you are clocked on, ClockOn maintains a discreet notification in your Android status bar displaying your active account name.
+While you are clocked on, ClockOn adds a notification to your Android status bar which includes your active account name.
 
 * **Constant Status Indicator**: A quick glance at your phone's status bar or notification shade confirms that you are currently on the clock and which account you are logging time to.
 * **Instant Shortcut to Clock Off**: Tapping the notification takes you straight back to the main screen in ClockOn from anywhere on your device or lock screen, making it effortless to jump in and tap **CLOCK OFF** or **SWITCH** as soon as you finish a task!
@@ -99,7 +97,7 @@ You remain in complete control of where the data goes.
 
 ## 📈 Visual Charts & Data Analytics
 
-Want to visualize your work hours at a glance? ClockOn features a comprehensive interactive charting engine:
+Want to visualize your time bookings at a glance? ClockOn features a comprehensive interactive charting engine:
 
 1. In **Reports**, select one or more periods using the checkboxes.
 2. Tap the **Action** (`☰`) menu button at the bottom right and select **Charts**.
@@ -124,9 +122,9 @@ Made a mistake or forgot to log yesterday's hours? ClockOn gives you full contro
 * Tap on any session or record entry.
 * Adjust the start time, end time, date, or account in the dialog, then tap **Save**.
 
-### 2. Adding Manual Sessions
+### 2. Manually Adding Sessions
 * In **Reports**, tap the week/month to expand it and tap the **`+` (Add Session)** button.
-* Enter the start time, end time, date, and account to retroactively log a past session.
+* Enter the start time, end time, date, and account to retroactively log a session.
 
 ### 3. Deleting Data
 * **Delete Single Session or Record**: Open any session or record by tapping it in Reports, then tap the red **Delete** button.
@@ -136,7 +134,7 @@ Made a mistake or forgot to log yesterday's hours? ClockOn gives you full contro
 
 ## ⚙️ Account Management & Custom Colours
 
-Manage multiple jobs, clients, or projects effortlessly:
+Manage multiple jobs, clients, tasks or projects effortlessly:
 
 1. Tap **ACCOUNTS** on the main screen.
 2. Rename accounts by tapping on their name and entering a new name.
@@ -148,11 +146,13 @@ Manage multiple jobs, clients, or projects effortlessly:
 
 ## 🚀 Power User Tips
 
-| Feature | Quick Summary                                                                                                              |
-| :--- |:---------------------------------------------------------------------------------------------------------------------------|
-| **Instant Account Switch** | Don't clock off one account and then clock on to another - just tap `SWITCH`!                                              |
-| **Widget Account Selector** | Tapping the account button on the widget allows you to change the active account.                                          |
-| **Timezone Auto-Sync** | Traveling across timezones? ClockOn automatically handles timezone migrations so timestamps and durations remain accurate. |
+| Feature                     | Quick Summary                                                                                                               |
+|:----------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| **The Widget**              | The widget sits on your home screen so you don't even have to start the app to clock on and off.                            |
+| **Widget Account Selector** | Tapping the account button on the widget allows you to change the active account.                                           |
+| **Account Grouping**        | Want to group associated accounts? Simple - just choose the names and colours carefully.                                    |
+| **Instant Account Switch**  | Don't clock off one account and then clock on to another - just tap `SWITCH`!                                               |
+| **Timezone Auto-Sync**      | Traveling across timezones? ClockOn automatically handles timezone migrations so timestamps and durations remain accurate.  |
 
 ---
 
