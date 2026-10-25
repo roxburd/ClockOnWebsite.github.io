@@ -11,7 +11,7 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 * [🎬 Daily Workflow](#-daily-workflow)
   * [1. Clocking On](#1-clocking-on)
   * [2. Clocking Off](#2-clocking-off)
-  * [   Switching Accounts (Optional)](#2-switching-accounts-optional)
+  * [   Switching Accounts (Optional)](#switching-accounts-optional)
 * [🔔 Persistent Status Bar Notification](#-persistent-status-bar-notification)
 * [📱 1-Tap Home Screen Widget](#-1-tap-home-screen-widget)
 * [📊 Reports & CSV Export](#-reports--csv-export)
