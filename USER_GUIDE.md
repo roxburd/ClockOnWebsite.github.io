@@ -18,6 +18,7 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 * [📈 Visual Charts & Data Analytics](#-visual-charts--data-analytics)
 * [✏️ Editing & Managing Records](#%EF%B8%8F-editing--managing-records)
 * [⚙️ Account Management & Custom Colours](#%EF%B8%8F-account-management--custom-colours)
+* [🗑️ Auto-Delete Old Sessions](#%EF%B8%8F-auto-delete-old-sessions)
 * [🚀 Power User Tips](#-power-user-tips)
 * [💬 Join Our Community & Support Us](#-join-our-community--support-us)
 
@@ -67,10 +68,12 @@ Working on Account A and need to jump to Account B? Don't clock off and clock on
 
 ## 🔔 Persistent Status Bar Notification
 
-While you are clocked on, ClockOn adds a notification to your Android status bar, including your active account name.
+While you are clocked on, the app maintains a status bar notification so that a quick glance at your phone's status bar or notification shade confirms that you are currently on the clock and which account you are logging time to.
 
-* **Constant Status Indicator**: A quick glance at your phone's status bar or notification shade confirms that you are currently on the clock and which account you are logging time to.
-* **Instant Shortcut to Clock Off**: Tapping the notification takes you straight back to the main screen in ClockOn from anywhere on your device or lock screen, making it effortless to jump in and tap **CLOCK OFF** or **SWITCH** as soon as you finish a task!
+There are two distinct ways to interact with the notification:
+
+* **Tapping the Notification Body**: Brings you straight back to the main app, where you can view live counters, switch accounts, or clock off manually.
+* **Tapping 'Clock Off' in the Notification**: Performs an **immediate clock-off** right from the notification shade or lock screen without starting the app.
 
 ---
 
@@ -143,6 +146,17 @@ Manage multiple jobs, clients, tasks or projects effortlessly:
 3. Add new accounts (e.g. *"Acme Corp"*, *"Design Contract"*, *"Overtime"*).
 4. **Custom Account Colours**: Personalise each account's colour swatch by tapping the colour circle next to the account name in the Accounts list view, or via Account Details. Use the true colour picker (Hue, Saturation, and Brightness sliders) to choose any custom shade.
 5. **Max Hours Limit**: Optionally set an all-time maximum hour limit for any account.
+
+---
+
+## 🗑️ Auto-Delete Old Sessions
+
+Want to keep your database lean and automatically purge historical logs? ClockOn features an optional auto-delete feature:
+
+1. Open **Settings** from the main screen.
+2. Toggle **Auto-delete old sessions** on.
+3. Choose your desired Time-to-Live.
+4. Old data will be safely tidied up.
 
 ---
 
