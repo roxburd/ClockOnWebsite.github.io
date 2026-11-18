@@ -18,7 +18,7 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 * [📈 Visual Charts & Data Analytics](#-visual-charts--data-analytics)
 * [✏️ Editing & Managing Records](#%EF%B8%8F-editing--managing-records)
 * [⚙️ Account Management & Custom Colours](#%EF%B8%8F-account-management--custom-colours)
-* [🗑️ Auto-Delete Old Sessions](#%EF%B8%8F-auto-delete-old-sessions)
+* [🗑️ Auto-Delete](#%EF%B8%8F-auto-delete)
 * [🚀 Power User Tips](#-power-user-tips)
 * [💬 Join Our Community & Support Us](#-join-our-community--support-us)
 
@@ -28,7 +28,8 @@ Welcome to ClockOn! Whether you are a freelancer juggling multiple clients, a co
 
 Most time-tracking apps are bloated with complex forms, required tags, project hierarchies, and mandatory cloud logins. **ClockOn is different.**
 
-* **Zero Fuss**: Tap once to clock on, tap once to clock off.
+* **Zero Fuss**: Tap once to clock on, tap once to clock off. Done.
+* **Advanced Features**: The advanced features are there... but don't get in your way.
 * **Session Integrity**: Hours are stored in guaranteed, non-overlapping **Sessions** (Clock-On / Clock-Off pairs) so your data is always consistent and accurate.
 * **100% Free & Ad-Free**: No paywalls, no pop-up ads, no data harvest.
 * **Privacy First**: All your data stays safely on your device.
@@ -38,10 +39,10 @@ Most time-tracking apps are bloated with complex forms, required tags, project h
 ## ⚡ Quick Start (3-Step Onboarding)
 
 1. **Open ClockOn**.
-2. Tap **CLOCK ON** when you start work.
+2. Tap **CLOCK ON** when you start.
 3. Tap **CLOCK OFF** when you finish.
 
-*That’s literally it!*
+*That’s about it if you just want to record an activity!*
 
 ---
 
@@ -54,6 +55,7 @@ Most time-tracking apps are bloated with complex forms, required tags, project h
 
 ### 2. Clocking Off
 * Tap **CLOCK OFF**.
+* Optionally, enter a note to describe the activity (e.g. "Client meeting").
 * ClockOn closes your active session, records total hours, and updates your widget/notification bar instantly.
 
 ### Switching Accounts (Optional)
@@ -125,7 +127,7 @@ Made a mistake or forgot to log yesterday's hours? ClockOn gives you full contro
 ### 1. Editing Existing Records & Sessions
 * Open **Reports** and expand any week or month.
 * Tap on any session or record entry.
-* Adjust the start time, end time, date, or account in the dialog, then tap **Save**.
+* Adjust the start time, end time, date, account or note in the dialog, then tap **Save**.
 
 ### 2. Manually Adding Sessions
 * In **Reports**, tap the week/month to expand it and tap the **`+` (Add Session)** button.
@@ -134,6 +136,9 @@ Made a mistake or forgot to log yesterday's hours? ClockOn gives you full contro
 ### 3. Deleting Data
 * **Delete Single Session or Record**: Open any session or record by tapping it in Reports, then tap the red **Delete** button.
 * **Delete Entire Week or Month**: Tap **Delete Week** or **Delete Month** at the bottom of any week/month block to remove all records for that period.
+
+> [!TIP]
+> Data can also be deleted by enabling **Auto-delete** in **Settings**.
 
 ---
 
@@ -149,7 +154,7 @@ Manage multiple jobs, clients, tasks or projects effortlessly:
 
 ---
 
-## 🗑️ Auto-Delete Old Sessions
+## 🗑️ Auto-Delete
 
 Want to keep your database lean and automatically purge historical logs? ClockOn features an optional auto-delete feature:
 
